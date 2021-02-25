@@ -11,25 +11,19 @@ Peer to peer lending, or P2P lending, has been around for more than a decade. Lo
 * Moolah Sense
 * Validus
 
-P2P lending is considered a high risk product due to the lack of regulation and enforcement. Individual investors might not comprehend the level of risk entered when lending out to the loanees. This can be seen from the reviews of the various platforms.
-    
-<img src="../images/Capital Match Google reviews.png">
-<img src="../images/CoAssets Google reviews.png">
-<img src="../images/Funding Societies Google reviews.png">
-<img src="../images/Minterest Google reviews.png">
-<img src="../images/MoolahSense Google reviews.png">
+P2P lending is considered a high risk product due to the lack of regulation and enforcement. Individual investors might not comprehend the level of risk entered when lending out to the loanees. This can be seen from the reviews of the various platforms.  
+
 
 ![Capital Match](https://github.com/garethrloh/ga-dsi-capstone/blob/main/images/Capital%20Match%20Google%20reviews.png?raw=true)
 
 ![CoAssets](https://github.com/garethrloh/ga-dsi-capstone/blob/main/images/CoAssets%20Google%20reviews.png?raw=true)
 
-![Funding Societies](https://github.com/garethrloh/ga-dsi-capstone/blob/main/images/Funding%20MSocieties%20Google%20reviews.png?raw=true)
+![Funding Societies](https://github.com/garethrloh/ga-dsi-capstone/blob/main/images/Funding%20Societies%20Google%20reviews.png?raw=true)
 
 ![Minterest](https://github.com/garethrloh/ga-dsi-capstone/blob/main/images/Minterest%20Google%20reviews.png?raw=true)
 
 ![MoolahSense](https://github.com/garethrloh/ga-dsi-capstone/blob/main/images/MoolahSense%20Google%20reviews.png?raw=true)
 
-https://github.com/garethrloh/ga-dsi-capstone/blob/main/images/Capital%20Match%20Google%20reviews.png
 
 ## Problem Statement
 
