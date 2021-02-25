@@ -41,7 +41,7 @@ As individual lenders lack the capabilities that a financial institution has in 
 Hence, the objective behind this initiative, is to build a robust model that can assist individual investors/lenders in gauging the riskiness of the loan. Then they can assess if they would take the plunge in making out the loan to the loanee.
 
 #### Primary and Secondary Stakeholders
-Primary - Investors
+Primary - Investors. 
 Secondary - P2P platforms
 
 ## Data Science Process
