@@ -19,7 +19,7 @@ P2P lending is considered a high risk product due to the lack of regulation and 
 <img src="../images/Minterest Google reviews.png">
 <img src="../images/MoolahSense Google reviews.png">
 
-![alt text](https://github.com/garethrloh/ga-dsi-capstone/blob/[branch]/image.jpg?raw=true)
+![alt text](../blob/main/Capital Match Google reviews.jpg)
 
 ## Problem Statement
 
