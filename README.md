@@ -72,6 +72,12 @@ Based on the grid search and evaluation, the best scoring model will be optimise
 
 
 5. **Conclusion and Recommendations**
+The model tends to predict loans that will be paid off better.  
+![Confusion Matrix](https://github.com/garethrloh/ga-dsi-capstone/blob/main/images/Confusion%20Matrix.png?raw=true)
+
+![ROC AUC](https://github.com/garethrloh/ga-dsi-capstone/blob/main/images/ROC%20AUC.png?raw=true)
+
+Will need to improve the model with more current data and better feature engineering.
 
 ## Data Dictionary
 
